@@ -4,6 +4,7 @@
 
 #
 Laborationen var att göra ett interaktivt spel med text. Jag gjorde spelet med en berättelse av ett hus med ett okänt ljud
+Jag skapade denna labben i fel repositorie, så jag bytte. Alla GitHub redigeringar ligger i repositoriet Medieinstitutet/Interaktivt spel JS
 
 #
 Innan spelet börjar få skriver man in sitt användarnamn. Användarnamnet visas i alerten när man förlorar eller vinner.
